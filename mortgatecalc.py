@@ -21,5 +21,4 @@ def mortgage(homecost, apr):
 
 
 if __name__ == '__main__':
-    cost = input("Enter Home Cost")
-    print(mortgage(int(cost), 3.844))
+    # code to be run directly

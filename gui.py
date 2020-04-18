@@ -22,3 +22,7 @@ finance_amount_apr_label = Label(frame, text="APR Percentage", bg="White").pack(
 finance_amount_apr_textbox = Entry(frame, textvariable=apr).pack()
 finance_calculate_button = Button(frame, text="Submit", command=lambda: show_message(home_cost, apr), bg="White").pack()
 top.mainloop()
+
+
+if __name__ == '__main__':
+    #code to run
