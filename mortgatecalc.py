@@ -21,4 +21,4 @@ def mortgage(homecost, apr):
 
 
 if __name__ == '__main__':
-    # code to be run directly
+    #code to be run directly
