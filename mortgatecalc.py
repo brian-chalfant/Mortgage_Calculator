@@ -19,6 +19,3 @@ def mortgage(homecost, apr):
     return("15-Year Mortgage Monthly Payment is ${:.2f}\n".format(fifteen_year) +
            "30-Year Mortgage Monthly Payment is ${:.2f}".format(thirty_year))
 
-
-if __name__ == '__main__':
-    #code to be run directly
